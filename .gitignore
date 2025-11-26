@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ROS2构建文件
+build/
+install/
+log/
+
+# 系统文件
+*.pyc
+__pycache__/
+*.so
